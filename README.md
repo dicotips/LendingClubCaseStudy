@@ -1,8 +1,20 @@
 # Lending Club Case Study
 
+## Introduction 
+
+Exploratory and Data Analysis for a Consumer Finance company. We want to help the company to identify risky customers when offering loans. Risks are identified based on the applicant's profile.
+
 ## Group members:
 * Pavan Narra (@pavan440)
 * Jheser Guzman (@dicotips)
+### Methods Used
+* Exploratory Data Analysis
+* Data Visualization
+
+### Technologies
+* Python
+* Pandas
+* Jupyter Notebooks
 
 ## Download and Setup
 ### Prerequisites
