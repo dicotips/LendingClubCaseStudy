@@ -66,3 +66,9 @@ When a person applies for a loan, there are two types of decisions that could be
 
 2. **Loan rejected:** The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
+## Observations and Conclusions
+
+* Grade A loan has the lowest charged off loans because of lowest interest rates .As the interest rates increases the charged off loans are increasing.
+* The employees with 0-1 year and 10 –10+years,followed by 7,8 years experience have more charged off loans and the common pattern bewteen them is higher mean value of loan on smaller business.
+* The Median of the annual income is increasing as the experince increase ,the mean annual income of employes  who  defaults loan is less when compared to the employess who fully paid the loan
+* The small bussiness,credit card,debit consolidation has high mean of loan amount which indicates investors should be extra couscious when giving the loan for those purposes 
